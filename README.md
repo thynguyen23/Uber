@@ -13,5 +13,5 @@ Some question I will answer:
   + Next,Visualization and deriving insights
   + Finally, Sharing with stakeholder
   
- I use Python mostly,I alse used Postgresql (I connected to Python to Postgresql)
+ I use Python mostly,I alse used Postgresql (I connected Python to Postgresql)
  
