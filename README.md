@@ -1,6 +1,6 @@
 - Before analyzing I need to clean,check for missing values
 - After that is Exploratory Data Analysis:
- + Firstly, Asking
+- Firstly, Asking
                      Some question I will answer:
                            Check how long do people travel with Uber?
                            What Hour Do Most People Take Uber To Their Destination?
