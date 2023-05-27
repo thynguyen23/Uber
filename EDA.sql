@@ -1,3 +1,4 @@
+--I mostly used Python so SQL code isn't much. 
 select * from uber_table
 select percentile_cont(0.5) WITHIN GROUP (ORDER BY ("END_DATE"-"START_DATE")) AS LONG FROM uber_table
 select AVG("END_DATE"-"START_DATE") AS LONG FROM uber_table 23 minutes
